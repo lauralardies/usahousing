@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np 
 
 # Para ver qué variables vamos a estudiar, calcularemos su correlación lineal y la representaremos en una gráfica.
 # A parir de ahí representaremos las variables que consideraremos oportunas a partir del estudio anterior.
