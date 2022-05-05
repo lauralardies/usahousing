@@ -14,9 +14,12 @@ Como último paso graficamos las variables restantes. Igualmente, hay que seguir
 1) Carpeta "correlación": Aquí se guardan las gráficas que muestran correlación. Es decir, las dos variables dibujadas se influyen mutuamente.
 2) Carpeta "no correlación":  Aquí se guardan las gráficas que no tienen tanta correlación. Es decir, las dos variables dibujadas son independienes (o casi).
 
-Una vez ejecutado nuestro código podemos verificar nuestra teoría. Hemos observado que cuanta mayor correlación, menos tendencia hay a que se apelotonen los datos en forma de círculo, debido a que las variables dependen la una de la otra. Es decir, si sube una, la otra también. De igual manera, se puede decir lo contrario. Cuanto menor correlación, se puede observar que en nuestra gráfica los datos tienen mayor tendencia a juntarse sin aportar nada de información al intentar analizar la gráfica. Como ejemplo práctico, esto ocurre en el caso de los ingresos de la zona al ser comparados con el precio de la casa, que están altamente correlacionados. Cuanto más cara la casa, más ingresos gana su dueño y viceversa.
+Una vez ejecutado nuestro código podemos verificar nuestra teoría. Hemos observado que cuanta mayor correlación, menos tendencia hay a que se apelotonen los datos en forma de círculo, debido a que las variables dependen la una de la otra. Es decir, si sube una, la otra también. De igual manera, se puede decir lo contrario. Cuanto menor correlación, se puede observar que en nuestra gráfica los datos tienen mayor tendencia a juntarse sin aportar nada de información al intentar analizar la gráfica. Como ejemplo práctico, esto ocurre en el caso de los ingresos de la zona al ser comparados con el precio de la casa, que están altamente correlacionados. Cuanto más cara la casa, más ingresos gana su dueño y viceversa. Por otro lado, cuando comparamos la población de la zona con la edad de la casa (datos con baja correlación), podemos obervar que el hecho de que haya más población en la zona no influye en absoluto en la edad de la casa. Ambas variables no dependen la una de la otra, es decir, si una sube su valor, la otra no tiene porqué subir el suyo necesariamente.
+
+
 
 Con esto finalizamos nuestro análisis de datos.
+
 
 
 ## Código
